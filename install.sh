@@ -1,6 +1,7 @@
 #!/bin/sh
 set -e
 cd "$(dirname "$0")"
+mkdir -p ~/.config
 for app in kitty nvim; do
   target=~/.config/$app
   if [ -e "$target" ] && [ ! -L "$target" ]; then

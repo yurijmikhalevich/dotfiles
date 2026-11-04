@@ -1,10 +1,2 @@
-tt.*
-.tests
-doc/tags
-debug
-.repro
-foo.*
-*.log
-data
 kitty/local.conf
 nvim/local.lua
