@@ -1,1 +1,1 @@
-# Yurij's Neovim config
+# Yurij's dotfiles

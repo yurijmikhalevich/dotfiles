@@ -6,3 +6,5 @@ debug
 foo.*
 *.log
 data
+kitty/local.conf
+nvim/local.lua
